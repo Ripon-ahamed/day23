@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="header-section" >
+    <div class="header-logo"> 
+        <a href="#">
+            <img src="https://i.ibb.co/NS1NwYB/lfwf-academy.png
+            " alt="">
+        </a>
+      </div>
+   <div class="menu-section">
+     <ul>
+       <li><a href="#">Home</a></li>
+       <li><a href="#">About</a></li>
+       <li><a href="#">Contact</a></li>
+       <li><a href="#">Office</a></li>
+       <li><a href="#">Help</a></li>
+       <li><a href="#">Teem</a></li>
+       <li><a href="#">Policy</a></li>
+     </ul>
+   </div>
+  </div>
+  <!-- banner-section -start -->
+  <div class="banner-top">
+    <div class="sub-div box-1">
+      <h4>Center</h4>
+    </div>
+    <div class="sub-div box-2">
+      <h4>Center</h4>
+    </div>
+    <div class="sub-div box-3">
+      <h4>Center</h4>
+    </div>
+  </div>
+  <div class="banner-center"></div>
+  <div class="banner-bottom"></div>
+  <!-- banner-section -end -->
+
+
+</body>
+</html>
